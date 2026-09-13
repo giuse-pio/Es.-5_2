@@ -23,7 +23,7 @@ namespace Es._5_2
             }
             else
             {
-                Console.WriteLine("\nErrore: Uno o entrambi i valori inseriti non sono rappresentazioni valide di un triangolo (devono iniziare con 'Tv').");
+                Console.WriteLine("\nErrore: Uno o entrambi i valori inseriti non sono validi (devono iniziare con 'Tv').");
             }
         }
     }
